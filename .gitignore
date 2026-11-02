@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.env
+.env.*
+!.env.example
+input/
+output/
+data/
+logs/
+*.sqlite*
+*.db
+*.pdf
+*.docx
+*.xlsx

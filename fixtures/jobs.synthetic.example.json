@@ -1,0 +1,32 @@
+[
+  {
+    "source": "synthetic-example",
+    "source_id": "SYNTHETIC-DESIGN-001",
+    "url": "https://example.invalid/synthetic/ui-ux-001",
+    "title": "UI/UX Designer",
+    "employer": "SYNTHETIC TEST COMPANY — WORLDWIDE",
+    "description": "SYNTHETIC TEST DATA ONLY — not a real vacancy. Figma, Graphic Design and Wireframing. Remote worldwide, including applicants in Pakistan.",
+    "location": "Worldwide",
+    "arrangement": "Remote"
+  },
+  {
+    "source": "synthetic-example",
+    "source_id": "SYNTHETIC-DESIGN-002",
+    "url": "https://example.invalid/synthetic/graphic-002",
+    "title": "Graphic Designer",
+    "employer": "SYNTHETIC TEST COMPANY — ISLAMABAD",
+    "description": "SYNTHETIC TEST DATA ONLY — not a real vacancy. Graphic Design, Figma and Wireframing for visual design projects.",
+    "location": "Islamabad, Pakistan",
+    "arrangement": "Hybrid"
+  },
+  {
+    "source": "synthetic-example",
+    "source_id": "SYNTHETIC-DESIGN-003",
+    "url": "https://example.invalid/synthetic/web-003",
+    "title": "Web Designer",
+    "employer": "SYNTHETIC TEST COMPANY — RESTRICTED REGION",
+    "description": "SYNTHETIC TEST DATA ONLY — not a real vacancy. Figma, Graphic Design and Wireframing. US only; remote work restricted to the United States.",
+    "location": "United States",
+    "arrangement": "Remote"
+  }
+]
